@@ -3,6 +3,8 @@
 Yapılan projede insan, kuş ve gemi butonları olacaktır.
 Hangi butona tıklanırsa onunla ilgili bilgiler ve nasıl ilerleme yaptıgı ekranda yazacaktır.
 Bu yapılan işlemleri Oop(Object Oriented Programming) Prensipleri ile yapılacaktır.
+
+## Deneme
 *
 Öncelikle xml kısmında ekran tasarımımızı ve butonlarımızı belirliyoruz.
 LinearLayout görünümünden vertical yapıp ekrana konulan butonların ve textViewlerin alt alta hizalıyoruz.
@@ -19,6 +21,8 @@ Belirlenen bu Classların ortak işlevi olan IGoesable(ilerleme) İnterface sın
 Bu IGoesable sınıfında fonksiyonumuzu oluşturuyoruz.
 İstenilen sınıflarda aynı isimdeki fonksiyona ovveride yapıp yapılacak işlemleri yazıyoruz.
 Her sınıfın kendine ait ilermesini fonksiyonda Toast mesajı ile ekrana yazdırma işlemini yapıyoruz.
+
+**Elbette destek olmanın başka yolları da var!**
 *
 VE daha sonra MainAktivity sınıfımızda oluşturulan sınıflardan objelerimizi oluşturuyoruz.
 Belirlenen parametreleri isteyecektir ve burada özelliklerimizi tanımlıyoruz.
