@@ -1,9 +1,9 @@
 # KotlinOopilerlemeExample
 
 
-Yapılan projede insan, kuş ve gemi butonları olacaktır.
-Hangi butona tıklanırsa onunla ilgili bilgiler ve nasıl ilerleme yaptıgı ekranda yazacaktır.
-Bu yapılan işlemleri Oop(Object Oriented Programming) Prensipleri ile yapılacaktır.
+*Yapılan projede insan, kuş ve gemi butonları olacaktır.
+*Hangi butona tıklanırsa onunla ilgili bilgiler ve nasıl ilerleme yaptıgı ekranda yazacaktır.
+*Bu yapılan işlemleri Oop(Object Oriented Programming) Prensipleri ile yapılacaktır.
 
 
 
