@@ -6,7 +6,7 @@ Hangi butona tıklanırsa onunla ilgili bilgiler ve nasıl ilerleme yaptıgı ek
 Bu yapılan işlemleri Oop(Object Oriented Programming) Prensipleri ile yapılacaktır.
 
 
-*
+
 Öncelikle xml kısmında ekran tasarımımızı ve butonlarımızı belirliyoruz.
 LinearLayout görünümünden vertical yapıp ekrana konulan butonların ve textViewlerin alt alta hizalıyoruz.
 MainAktivity Classımızda tıklanınca ne olmasını istediğimiz fonksiyonları yazıyoruz.
@@ -24,11 +24,11 @@ Bu IGoesable sınıfında fonksiyonumuzu oluşturuyoruz.
 Her sınıfın kendine ait ilermesini fonksiyonda Toast mesajı ile ekrana yazdırma işlemini yapıyoruz.
 
 
-*
+
 VE daha sonra MainAktivity sınıfımızda oluşturulan sınıflardan objelerimizi oluşturuyoruz.
 Belirlenen parametreleri isteyecektir ve burada özelliklerimizi tanımlıyoruz.
-*
+
 Son olarak MainActivity sınıfında belirledigimiz fonksiyonların içerisinde oluşturulan özellikleri ve fonksiyonları çağırıp ekrana yazırma işlemimizi tamamlıyoruz.
-*
+
 Saygılar
 Hasan Bektaş
