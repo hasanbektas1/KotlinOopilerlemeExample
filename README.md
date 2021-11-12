@@ -1,9 +1,9 @@
 # KotlinOopilerlemeExample
 
 
-*Yapılan projede insan, kuş ve gemi butonları olacaktır.
-*Hangi butona tıklanırsa onunla ilgili bilgiler ve nasıl ilerleme yaptıgı ekranda yazacaktır.
-*Bu yapılan işlemleri Oop(Object Oriented Programming) Prensipleri ile yapılacaktır.
+Yapılan projede insan, kuş ve gemi butonları olacaktır.
+Hangi butona tıklanırsa onunla ilgili bilgiler ve nasıl ilerleme yaptıgı ekranda yazacaktır.
+Bu yapılan işlemleri Oop(Object Oriented Programming) Prensipleri ile yapılacaktır.
 
 
 
@@ -24,11 +24,12 @@ Bu IGoesable sınıfında fonksiyonumuzu oluşturuyoruz.
 Her sınıfın kendine ait ilermesini fonksiyonda Toast mesajı ile ekrana yazdırma işlemini yapıyoruz.
 
 
-
 VE daha sonra MainAktivity sınıfımızda oluşturulan sınıflardan objelerimizi oluşturuyoruz.
 Belirlenen parametreleri isteyecektir ve burada özelliklerimizi tanımlıyoruz.
 
+
 Son olarak MainActivity sınıfında belirledigimiz fonksiyonların içerisinde oluşturulan özellikleri ve fonksiyonları çağırıp ekrana yazırma işlemimizi tamamlıyoruz.
+
 
 Saygılar
 Hasan Bektaş
