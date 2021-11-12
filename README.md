@@ -6,7 +6,6 @@ Hangi butona tıklanırsa onunla ilgili bilgiler ve nasıl ilerleme yaptıgı ek
 Bu yapılan işlemleri Oop(Object Oriented Programming) Prensipleri ile yapılacaktır.
 
 
-
 Öncelikle xml kısmında ekran tasarımımızı ve butonlarımızı belirliyoruz.
 LinearLayout görünümünden vertical yapıp ekrana konulan butonların ve textViewlerin alt alta hizalıyoruz.
 MainAktivity Classımızda tıklanınca ne olmasını istediğimiz fonksiyonları yazıyoruz.
