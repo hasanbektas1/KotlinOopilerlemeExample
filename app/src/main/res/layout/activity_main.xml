@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_centerHorizontal="true"
+    android:gravity="center"
+    android:background="#0B2EDC"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/human"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#133DD6"
+        android:onClick="human"
+        android:text="human"
+        android:textColor="@color/black"
+        android:textStyle="bold"/>
+
+    <Button
+        android:id="@+id/bird"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#133DD6"
+        android:onClick="bird"
+        android:text="Bırd"
+        android:textColor="@color/black"
+        android:textStyle="bold"/>
+
+    <Button
+        android:id="@+id/ship"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#133DD6"
+        android:onClick="ship"
+        android:text="ship"
+        android:textColor="@color/black"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+</LinearLayout>
