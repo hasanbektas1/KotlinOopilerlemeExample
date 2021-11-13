@@ -31,4 +31,5 @@ Son olarak MainActivity sınıfında belirledigimiz fonksiyonların içerisinde 
 
 
 Saygılar
+
 Hasan Bektaş
