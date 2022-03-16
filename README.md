@@ -8,7 +8,7 @@ Bu yapılan işlemleri Oop(Object Oriented Programming) Prensipleri ile yapılac
 
 Öncelikle xml kısmında ekran tasarımımızı ve butonlarımızı belirliyoruz.
 LinearLayout görünümünden vertical yapıp ekrana konulan butonların ve textViewlerin alt alta hizalıyoruz.
-MainAktivity Classımızda tıklanınca ne olmasını istediğimiz fonksiyonları yazıyoruz.
+MainActivity Classımızda tıklanınca ne olmasını istediğimiz fonksiyonları yazıyoruz.
 Human, Bird ve Ship Classlarımızı oluşturuyoruz.
 Sınıfların kendine ait özelliklerini sınıfların içinde ayrıca belirliyoruz.
 Human sınıfında belirlenen kendine ait occupation özelligindeki oluşturuyoruz.
@@ -22,14 +22,8 @@ Bu IGoesable sınıfında fonksiyonumuzu oluşturuyoruz.
 İstenilen sınıflarda aynı isimdeki fonksiyona ovveride yapıp yapılacak işlemleri yazıyoruz.
 Her sınıfın kendine ait ilermesini fonksiyonda Toast mesajı ile ekrana yazdırma işlemini yapıyoruz.
 
-
-VE daha sonra MainAktivity sınıfımızda oluşturulan sınıflardan objelerimizi oluşturuyoruz.
+Daha sonra MainActivity sınıfımızda oluşturulan sınıflardan objelerimizi oluşturuyoruz.
 Belirlenen parametreleri isteyecektir ve burada özelliklerimizi tanımlıyoruz.
-
 
 Son olarak MainActivity sınıfında belirledigimiz fonksiyonların içerisinde oluşturulan özellikleri ve fonksiyonları çağırıp ekrana yazırma işlemimizi tamamlıyoruz.
 
-
-Saygılar
-
-Hasan Bektaş
